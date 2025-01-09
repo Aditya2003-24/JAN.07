@@ -1,0 +1,46 @@
+{
+    "students":[
+      {
+        "rollno": 121,
+        "name": "schin",
+        "city": "bhopal",
+        "fee": "20000"
+      },
+      {
+        "rollno": 121,
+        "name": "schin",
+        "city": "bhopal",
+        "fee": "20000"
+      },
+      {
+        "rollno": 121,
+        "name": "schin",
+        "city": "bhopal",
+        "fee": "20000"
+      },
+      {
+        "rollno": 121,
+        "name": "schin",
+        "city": "bhopal",
+        "fee": "20000"
+      },
+      {
+        "rollno": 121,
+        "name": "schin",
+        "city": "bhopal",
+        "fee": "20000"
+      },
+      {
+        "rollno": 121,
+        "name": "schin",
+        "city": "bhopal",
+        "fee": "20000"
+      },
+      {
+        "rollno": 121,
+        "name": "schin",
+        "city": "bhopal",
+        "fee": "20000"
+      }
+    ]
+}
